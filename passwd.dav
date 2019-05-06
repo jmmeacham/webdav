@@ -1,0 +1,9 @@
+Personal Note
+
+In order to connect to our companies webdav server I need to use ryan's account (Hash:$6$c/qMD/qj$KDQgfxmDZlcf1EP1nclm4mH0SF.5wGz5ZUDEKsw5J98dD1Po2v7b0aoll2HdG5HNXf1lOqD/B5kcdk9QNxv/e0)
+
+1. I need to open the folder on the left hand bar
+2. I need to click "Other Locations"
+3. I need to type "dav://172.16.84.205/webdav/"
+4. I will be prompted for my user (but i'll use ryans account) and password
+5. I can click and drag files into the share and reload my browser
